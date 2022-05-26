@@ -1,10 +1,10 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "C:\\Users\\USER\\Documents\\Tutorials\\web3\\sophomore-track\\nft-collection\\hardhat-tutorial\\contracts\\CrytoDevs.sol": {
-      "lastModificationDate": 1653335923369,
-      "contentHash": "bc1078b15bb2926a77dde28e84d74c15",
-      "sourceName": "contracts/CrytoDevs.sol",
+    "C:\\Users\\USER\\Documents\\Tutorials\\web3\\sophomore-track\\NFT-Collection\\hardhat-tutorial\\contracts\\CryptoDevs.sol": {
+      "lastModificationDate": 1653571940950,
+      "contentHash": "19027d0d3b9b1a6037986a222f5726c8",
+      "sourceName": "contracts/CryptoDevs.sol",
       "solcConfig": {
         "version": "0.8.4",
         "settings": {
@@ -40,8 +40,8 @@
         "CryptoDevs"
       ]
     },
-    "C:\\Users\\USER\\Documents\\Tutorials\\web3\\sophomore-track\\nft-collection\\hardhat-tutorial\\node_modules\\@openzeppelin\\contracts\\token\\ERC721\\extensions\\ERC721Enumerable.sol": {
-      "lastModificationDate": 1653335614592,
+    "C:\\Users\\USER\\Documents\\Tutorials\\web3\\sophomore-track\\NFT-Collection\\hardhat-tutorial\\node_modules\\@openzeppelin\\contracts\\token\\ERC721\\extensions\\ERC721Enumerable.sol": {
+      "lastModificationDate": 1653571819484,
       "contentHash": "88095889e59d16821879a8083f906503",
       "sourceName": "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol",
       "solcConfig": {
@@ -78,8 +78,8 @@
         "ERC721Enumerable"
       ]
     },
-    "C:\\Users\\USER\\Documents\\Tutorials\\web3\\sophomore-track\\nft-collection\\hardhat-tutorial\\node_modules\\@openzeppelin\\contracts\\access\\Ownable.sol": {
-      "lastModificationDate": 1653335615285,
+    "C:\\Users\\USER\\Documents\\Tutorials\\web3\\sophomore-track\\NFT-Collection\\hardhat-tutorial\\node_modules\\@openzeppelin\\contracts\\access\\Ownable.sol": {
+      "lastModificationDate": 1653571819774,
       "contentHash": "8398972af73b4e9e5ff3b31cad86234f",
       "sourceName": "@openzeppelin/contracts/access/Ownable.sol",
       "solcConfig": {
@@ -115,9 +115,9 @@
         "Ownable"
       ]
     },
-    "C:\\Users\\USER\\Documents\\Tutorials\\web3\\sophomore-track\\nft-collection\\hardhat-tutorial\\contracts\\IWhitelist.sol": {
-      "lastModificationDate": 1653335742697,
-      "contentHash": "f0f99c11130930fa4e7a590beae3e335",
+    "C:\\Users\\USER\\Documents\\Tutorials\\web3\\sophomore-track\\NFT-Collection\\hardhat-tutorial\\contracts\\IWhitelist.sol": {
+      "lastModificationDate": 1653571870843,
+      "contentHash": "d16443f96148e4edb560e10bd993f7cf",
       "sourceName": "contracts/IWhitelist.sol",
       "solcConfig": {
         "version": "0.8.4",
@@ -150,8 +150,8 @@
         "IWhitelist"
       ]
     },
-    "C:\\Users\\USER\\Documents\\Tutorials\\web3\\sophomore-track\\nft-collection\\hardhat-tutorial\\node_modules\\@openzeppelin\\contracts\\token\\ERC721\\ERC721.sol": {
-      "lastModificationDate": 1653335614549,
+    "C:\\Users\\USER\\Documents\\Tutorials\\web3\\sophomore-track\\NFT-Collection\\hardhat-tutorial\\node_modules\\@openzeppelin\\contracts\\token\\ERC721\\ERC721.sol": {
+      "lastModificationDate": 1653571819423,
       "contentHash": "21b9f3bdb3e60f56ea81361c37420136",
       "sourceName": "@openzeppelin/contracts/token/ERC721/ERC721.sol",
       "solcConfig": {
@@ -193,8 +193,8 @@
         "ERC721"
       ]
     },
-    "C:\\Users\\USER\\Documents\\Tutorials\\web3\\sophomore-track\\nft-collection\\hardhat-tutorial\\node_modules\\@openzeppelin\\contracts\\token\\ERC721\\extensions\\IERC721Enumerable.sol": {
-      "lastModificationDate": 1653335615151,
+    "C:\\Users\\USER\\Documents\\Tutorials\\web3\\sophomore-track\\NFT-Collection\\hardhat-tutorial\\node_modules\\@openzeppelin\\contracts\\token\\ERC721\\extensions\\IERC721Enumerable.sol": {
+      "lastModificationDate": 1653571819719,
       "contentHash": "f4dd06783f321aa26179bc2b6e361c29",
       "sourceName": "@openzeppelin/contracts/token/ERC721/extensions/IERC721Enumerable.sol",
       "solcConfig": {
@@ -230,8 +230,8 @@
         "IERC721Enumerable"
       ]
     },
-    "C:\\Users\\USER\\Documents\\Tutorials\\web3\\sophomore-track\\nft-collection\\hardhat-tutorial\\node_modules\\@openzeppelin\\contracts\\token\\ERC721\\IERC721.sol": {
-      "lastModificationDate": 1653335615128,
+    "C:\\Users\\USER\\Documents\\Tutorials\\web3\\sophomore-track\\NFT-Collection\\hardhat-tutorial\\node_modules\\@openzeppelin\\contracts\\token\\ERC721\\IERC721.sol": {
+      "lastModificationDate": 1653571819716,
       "contentHash": "cd8e72e5859bddd5fd26b2fb5c51c846",
       "sourceName": "@openzeppelin/contracts/token/ERC721/IERC721.sol",
       "solcConfig": {
@@ -267,8 +267,8 @@
         "IERC721"
       ]
     },
-    "C:\\Users\\USER\\Documents\\Tutorials\\web3\\sophomore-track\\nft-collection\\hardhat-tutorial\\node_modules\\@openzeppelin\\contracts\\token\\ERC721\\IERC721Receiver.sol": {
-      "lastModificationDate": 1653335615172,
+    "C:\\Users\\USER\\Documents\\Tutorials\\web3\\sophomore-track\\NFT-Collection\\hardhat-tutorial\\node_modules\\@openzeppelin\\contracts\\token\\ERC721\\IERC721Receiver.sol": {
+      "lastModificationDate": 1653571819725,
       "contentHash": "c22d4395e33763de693fd440c6fd10e1",
       "sourceName": "@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol",
       "solcConfig": {
@@ -302,8 +302,8 @@
         "IERC721Receiver"
       ]
     },
-    "C:\\Users\\USER\\Documents\\Tutorials\\web3\\sophomore-track\\nft-collection\\hardhat-tutorial\\node_modules\\@openzeppelin\\contracts\\token\\ERC721\\extensions\\IERC721Metadata.sol": {
-      "lastModificationDate": 1653335615162,
+    "C:\\Users\\USER\\Documents\\Tutorials\\web3\\sophomore-track\\NFT-Collection\\hardhat-tutorial\\node_modules\\@openzeppelin\\contracts\\token\\ERC721\\extensions\\IERC721Metadata.sol": {
+      "lastModificationDate": 1653571819722,
       "contentHash": "efbc0d15b80a74e34dbe8da0f3e879bb",
       "sourceName": "@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol",
       "solcConfig": {
@@ -339,8 +339,8 @@
         "IERC721Metadata"
       ]
     },
-    "C:\\Users\\USER\\Documents\\Tutorials\\web3\\sophomore-track\\nft-collection\\hardhat-tutorial\\node_modules\\@openzeppelin\\contracts\\utils\\Address.sol": {
-      "lastModificationDate": 1653335613128,
+    "C:\\Users\\USER\\Documents\\Tutorials\\web3\\sophomore-track\\NFT-Collection\\hardhat-tutorial\\node_modules\\@openzeppelin\\contracts\\utils\\Address.sol": {
+      "lastModificationDate": 1653571819036,
       "contentHash": "ad714a6368ee7d43cded6bbe8af0b155",
       "sourceName": "@openzeppelin/contracts/utils/Address.sol",
       "solcConfig": {
@@ -374,8 +374,8 @@
         "Address"
       ]
     },
-    "C:\\Users\\USER\\Documents\\Tutorials\\web3\\sophomore-track\\nft-collection\\hardhat-tutorial\\node_modules\\@openzeppelin\\contracts\\utils\\Context.sol": {
-      "lastModificationDate": 1653335613155,
+    "C:\\Users\\USER\\Documents\\Tutorials\\web3\\sophomore-track\\NFT-Collection\\hardhat-tutorial\\node_modules\\@openzeppelin\\contracts\\utils\\Context.sol": {
+      "lastModificationDate": 1653571819175,
       "contentHash": "5f2c5c4b6af2dd4551027144797bc8be",
       "sourceName": "@openzeppelin/contracts/utils/Context.sol",
       "solcConfig": {
@@ -409,8 +409,8 @@
         "Context"
       ]
     },
-    "C:\\Users\\USER\\Documents\\Tutorials\\web3\\sophomore-track\\nft-collection\\hardhat-tutorial\\node_modules\\@openzeppelin\\contracts\\utils\\Strings.sol": {
-      "lastModificationDate": 1653335615327,
+    "C:\\Users\\USER\\Documents\\Tutorials\\web3\\sophomore-track\\NFT-Collection\\hardhat-tutorial\\node_modules\\@openzeppelin\\contracts\\utils\\Strings.sol": {
+      "lastModificationDate": 1653571819931,
       "contentHash": "9c54c6c065d9e590fdcdd72c451425b9",
       "sourceName": "@openzeppelin/contracts/utils/Strings.sol",
       "solcConfig": {
@@ -444,8 +444,8 @@
         "Strings"
       ]
     },
-    "C:\\Users\\USER\\Documents\\Tutorials\\web3\\sophomore-track\\nft-collection\\hardhat-tutorial\\node_modules\\@openzeppelin\\contracts\\utils\\introspection\\ERC165.sol": {
-      "lastModificationDate": 1653335613676,
+    "C:\\Users\\USER\\Documents\\Tutorials\\web3\\sophomore-track\\NFT-Collection\\hardhat-tutorial\\node_modules\\@openzeppelin\\contracts\\utils\\introspection\\ERC165.sol": {
+      "lastModificationDate": 1653571819355,
       "contentHash": "0e7db055ce108f9da7bb6686a00287c0",
       "sourceName": "@openzeppelin/contracts/utils/introspection/ERC165.sol",
       "solcConfig": {
@@ -481,8 +481,8 @@
         "ERC165"
       ]
     },
-    "C:\\Users\\USER\\Documents\\Tutorials\\web3\\sophomore-track\\nft-collection\\hardhat-tutorial\\node_modules\\@openzeppelin\\contracts\\utils\\introspection\\IERC165.sol": {
-      "lastModificationDate": 1653335615012,
+    "C:\\Users\\USER\\Documents\\Tutorials\\web3\\sophomore-track\\NFT-Collection\\hardhat-tutorial\\node_modules\\@openzeppelin\\contracts\\utils\\introspection\\IERC165.sol": {
+      "lastModificationDate": 1653571819642,
       "contentHash": "03e6768535ac4da0e9756f1d8a4a018a",
       "sourceName": "@openzeppelin/contracts/utils/introspection/IERC165.sol",
       "solcConfig": {
@@ -516,8 +516,8 @@
         "IERC165"
       ]
     },
-    "C:\\Users\\USER\\Documents\\Tutorials\\web3\\sophomore-track\\nft-collection\\hardhat-tutorial\\contracts\\Greeter.sol": {
-      "lastModificationDate": 1653334673936,
+    "C:\\Users\\USER\\Documents\\Tutorials\\web3\\sophomore-track\\NFT-Collection\\hardhat-tutorial\\contracts\\Greeter.sol": {
+      "lastModificationDate": 1653571316260,
       "contentHash": "54c28c84e5277b35b8c8329ce9755dae",
       "sourceName": "contracts/Greeter.sol",
       "solcConfig": {
@@ -553,8 +553,8 @@
         "Greeter"
       ]
     },
-    "C:\\Users\\USER\\Documents\\Tutorials\\web3\\sophomore-track\\nft-collection\\hardhat-tutorial\\node_modules\\hardhat\\console.sol": {
-      "lastModificationDate": 1653334673927,
+    "C:\\Users\\USER\\Documents\\Tutorials\\web3\\sophomore-track\\NFT-Collection\\hardhat-tutorial\\node_modules\\hardhat\\console.sol": {
+      "lastModificationDate": 1653571316255,
       "contentHash": "cc4777addd464ea56fa35b1c45df0591",
       "sourceName": "hardhat/console.sol",
       "solcConfig": {
